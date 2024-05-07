@@ -1,0 +1,28 @@
+body {
+    background-color: darkgrey;
+    color: lightcyan;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid lightcyan;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: darkcyan;
+    color: lightcyan;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
