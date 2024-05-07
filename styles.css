@@ -1,23 +1,29 @@
 body {
-    background-color: darkgrey;
-    color: lightcyan;
+    background-color: #f0f0f0; 
+    color: #333; 
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
+    margin-bottom: 20px; 
+}
+
+h1 {
+    text-align: center;
+    color: #007acc; 
 }
 
 th,
 td {
-    border: 1px solid lightcyan;
+    border: 1px solid #007acc; 
     padding: 8px;
     text-align: left;
 }
 
 th {
-    background-color: darkcyan;
-    color: lightcyan;
+    background-color: #007acc; 
+    color: #fff; 
 }
 
 img {
